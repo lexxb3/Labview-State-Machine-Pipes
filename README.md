@@ -1,5 +1,5 @@
-# Labview-State-Machine-Pipes
-State Machine Pipes provides an easy way of implementing the Pipe and Filter design pattern within a state machine in Labview.
+# LabVIEW-State-Machine-Pipes
+State Machine Pipes provides an easy way of implementing the Pipe and Filter design pattern within a state machine in LabVIEW.
 
 This allows you to specify a sequence of operations to be executed as a group (pipe), in which data from one operation is available to be further processed or used by the next operation. Also allows you to cancel the entire pipe if there is an error in one of its operations, for example.
 
